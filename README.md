@@ -2,6 +2,10 @@
 
 A modern, responsive web application for creating, storing, and managing text snippets/pastes. Built with React and powered by Vite for optimal performance.
 
+## 🌐 Live Demo
+
+**[Try PasteApp Live](https://paste-app-xi.vercel.app/)**
+
 ## ✨ Features
 
 - **Create Pastes**: Write and save text snippets with custom titles
@@ -25,12 +29,20 @@ A modern, responsive web application for creating, storing, and managing text sn
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Quick Start
+
+🔗 **[Access the live application](https://paste-app-xi.vercel.app/)** - No installation required!
+
+### Local Development
+
+#### Prerequisites
+
+#### Prerequisites
 
 - Node.js (version 14 or higher)
 - npm or yarn
 
-### Installation
+#### Installation
 
 1. Clone the repository:
 ```bash
